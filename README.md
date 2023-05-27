@@ -1,4 +1,4 @@
-#Rock Paper Scissors Game
+Rock Paper Scissors Game
 
 This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. It allows users to play the classic game against the computer.
 
@@ -21,7 +21,7 @@ Usage
 Open the game in your web browser.
 Click on one of the three buttons to select your choice (rock, paper, or scissors).
 The computer will randomly select its choice.
-The result will be displayed on the screen (win, lose, or draw).
+The result will be displayed on the screen (win, lose, or tie).
 Your score will be updated accordingly.
 
 Customization
