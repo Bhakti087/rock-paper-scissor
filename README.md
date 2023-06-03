@@ -32,4 +32,4 @@ script.js for modifying the game logic and behavior.
 Contributing : 
 Contributions are welcome! If you find any bugs or want to add new features, please submit an issue or a pull request.
 
-Happy gaming!
+Happy gaming!!
